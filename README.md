@@ -28,5 +28,5 @@ Tests reaction speed by turning off an LED at a random time and measuring how qu
 ## switch.py
 Lights up an LED for two seconds when a button is pressed.
 
-traffic_lights.py
+## traffic_lights.py
 Simulates a traffic light sequence with red, yellow, and green LEDs, and triggers a buzzer alarm when a button is pressed.
